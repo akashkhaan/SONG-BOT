@@ -5,7 +5,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 TOKEN = "7434039626:AAG88nBbeX_AfE7KWt72OKyLLZn1GU9pbL0"
-OWNER_ID = 8062021892
+OWNER_ID = 7434039626
 
 # 🔗 Your Links
 YOUTUBE_LINK = "https://youtube.com/@techtrickindia9?si=QNIhbr4nQbF6RbC8"
